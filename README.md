@@ -1,13 +1,13 @@
 # Software Blog Website
 
+## 🎯 Project Purpose
+This project was created as a personal software engineering blog and portfolio website. Its purpose is to share knowledge, ideas, and content related to programming, software development, and modern technologies while showcasing personal projects and interests.
+
 ## 📸 Project Preview
 ![image alt](https://github.com/AliHuseyn19/software-blog/blob/a1da15930751b741756661d75c79ae6e0849fcde/191919.png)
 
 ![image alt](https://github.com/AliHuseyn19/software-blog/blob/a1da15930751b741756661d75c79ae6e0849fcde/111111.png)
 
-
-## 🎯 Project Purpose
-This project was created as a personal software engineering blog and portfolio website. Its purpose is to share knowledge, ideas, and content related to programming, software development, and modern technologies while showcasing personal projects and interests.
 
 ## 🚀 Features
 - 📝 Blog-style content about software and technology
