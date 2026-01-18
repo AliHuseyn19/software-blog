@@ -1,10 +1,9 @@
 # Software Blog Website
 
 ## 📸 Project Preview
-![Homepage]([images/homepage.png](https://github.com/AliHuseyn19/software-blog/blob/a1da15930751b741756661d75c79ae6e0849fcde/191919.png))
+![image alt](https://github.com/AliHuseyn19/software-blog/blob/a1da15930751b741756661d75c79ae6e0849fcde/191919.png)
 
-![Blog Page]([images/blog.png](https://github.com/AliHuseyn19/software-blog/blob/a1da15930751b741756661d75c79ae6e0849fcde/111111.png))
-
+![image alt](https://github.com/AliHuseyn19/software-blog/blob/a1da15930751b741756661d75c79ae6e0849fcde/111111.png)
 
 
 ## 🎯 Project Purpose
